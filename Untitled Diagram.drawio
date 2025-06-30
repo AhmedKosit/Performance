@@ -54,14 +54,17 @@
         <mxCell id="pXVpYt70onAIOGzY6Nei-46" value="Instructors" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="540" y="410" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pXVpYt70onAIOGzY6Nei-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.395;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pXVpYt70onAIOGzY6Nei-46" target="pXVpYt70onAIOGzY6Nei-45">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="pXVpYt70onAIOGzY6Nei-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.395;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pXVpYt70onAIOGzY6Nei-46">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520.02" y="540" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="pXVpYt70onAIOGzY6Nei-48" value="Tools" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="680" y="420" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pXVpYt70onAIOGzY6Nei-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.994;entryY=0.433;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pXVpYt70onAIOGzY6Nei-48" target="pXVpYt70onAIOGzY6Nei-45">
+        <mxCell id="pXVpYt70onAIOGzY6Nei-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.994;entryY=0.433;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pXVpYt70onAIOGzY6Nei-48">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="565.5439999999999" y="583.3" as="targetPoint" />
             <Array as="points">
               <mxPoint x="720" y="583" />
             </Array>
