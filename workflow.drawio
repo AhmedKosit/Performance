@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.2.0" pages="3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.2.0" pages="4">
   <diagram name="Page-1" id="ND6SOPRFW4xS99WXPbeX">
     <mxGraphModel dx="1097" dy="512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -212,6 +212,35 @@
             <mxPoint x="600" y="480" as="sourcePoint" />
             <mxPoint x="130" y="480" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="bfF4YZGPqnqzlz9b6zfV" name="Page-4">
+    <mxGraphModel dx="1097" dy="512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="S9PjacKMWTnCt8d7pvOB-4" value="Commission&lt;div&gt;{FE,BE}&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S9PjacKMWTnCt8d7pvOB-5" value="&lt;div&gt;Fixes Assets&lt;/div&gt;&lt;div&gt;{FE,BE}&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S9PjacKMWTnCt8d7pvOB-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="S9PjacKMWTnCt8d7pvOB-6" target="S9PjacKMWTnCt8d7pvOB-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S9PjacKMWTnCt8d7pvOB-6" value="shell" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="80" width="120" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="S9PjacKMWTnCt8d7pvOB-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="S9PjacKMWTnCt8d7pvOB-7" target="S9PjacKMWTnCt8d7pvOB-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S9PjacKMWTnCt8d7pvOB-7" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.api_gateway;fillColor=#D9A741;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="150" width="76.5" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="S9PjacKMWTnCt8d7pvOB-11" value="DB" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="101.5" width="120" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
